@@ -6,7 +6,6 @@ I am a backend developer
 
 * 🌍  I'm based in Temirtau, Kazakhstan
 * ✉️  You can contact me at [VladimirFomin90@yandex.ru](mailto:VladimirFomin90@yandex.ru)
-* ⚡  i'm looking for a job
 
 ### Skills
 
